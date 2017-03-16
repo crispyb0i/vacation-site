@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+}
+
+img {
+  width:100%;
+  text-align: center;
+}
+
+body{
+  background-color: #3cc1d8;
+}
+
+.jumbotron {
+  background-color: #7c7c82;
+}
+
+.resize {
+  height:170px
+}
